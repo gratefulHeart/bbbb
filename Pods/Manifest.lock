@@ -1,0 +1,23 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - JSONKit (1.5pre)
+  - Masonry (0.6.2)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture (~> 1.1)
+  - FMDB (~> 2.5)
+  - JSONKit (~> 1.5pre)
+  - Masonry (~> 0.6.2)
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  Masonry: 362e8a1cc0beada4a4c4832d5e863da2a51533be
+
+COCOAPODS: 0.37.2

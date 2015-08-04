@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DaoGou.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Charts.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Classes"
+      name = "Classes">
+      <Group
+         location = "group:Animation"
+         name = "Animation">
+         <FileRef
+            location = "group:ChartAnimationEasing.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartAnimator.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Charts"
+         name = "Charts">
+         <FileRef
+            location = "group:BarChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BarLineChartViewBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BubbleChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CandleStickChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartViewBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CombinedChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:HorizontalBarChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LineChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PieChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PieRadarChartViewBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RadarChartView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ScatterChartView.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Components"
+         name = "Components">
+         <FileRef
+            location = "group:ChartAxisBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartComponentBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartLegend.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartLimitLine.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartMarker.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartXAxis.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartYAxis.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Data"
+         name = "Data">
+         <FileRef
+            location = "group:BarChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BarChartDataEntry.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BarChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BarLineScatterCandleChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BarLineScatterCandleChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BubbleChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BubbleChartDataEntry.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BubbleChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CandleChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CandleChartDataEntry.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CandleChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartDataEntry.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CombinedChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LineChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LineChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LineRadarChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PieChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PieChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RadarChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RadarChartDataSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ScatterChartData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ScatterChartDataSet.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Filters"
+         name = "Filters">
+         <FileRef
+            location = "group:ChartDataApproximatorFilter.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartDataBaseFilter.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Highlight"
+         name = "Highlight">
+         <FileRef
+            location = "group:BarChartHighlighter.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartHighlight.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartHighlighter.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartRange.swift">
+         </FileRef>
+         <FileRef
+            location = "group:HorizontalBarChartHighlighter.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Renderers"
+         name = "Renderers">
+         <FileRef
+            location = "group:BarChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BubbleChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CandleStickChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartAxisRendererBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartDataRendererBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartLegendRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartRendererBase.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartXAxisRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartXAxisRendererBarChart.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartXAxisRendererHorizontalBarChart.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartXAxisRendererRadarChart.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartYAxisRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartYAxisRendererHorizontalBarChart.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartYAxisRendererRadarChart.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CombinedChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:HorizontalBarChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:LineChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PieChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RadarChartRenderer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ScatterChartRenderer.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Utils"
+         name = "Utils">
+         <FileRef
+            location = "group:ChartColorTemplates.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartFillFormatter.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartSelectionDetail.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartTransformer.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartTransformerHorizontalBarChart.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartUtils.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ChartViewPortHandler.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:Supporting Files"
+      name = "Supporting Files">
+      <FileRef
+         location = "group:Charts.h">
+      </FileRef>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
